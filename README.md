@@ -1,6 +1,4 @@
-
-
-# Jogo da Forca 🎯
+## Jogo da Forca 🎯
 
 Este é um simples jogo da forca feito em linguagem C. O jogador deve adivinhar a palavra secreta antes que o bonequinho seja "enforcado".
 
